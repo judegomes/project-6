@@ -59,7 +59,7 @@
 
 .aside{
 	width:43%;
-	height:1190px;
+	height:1180px;
 	background-color:#00FFF0;
 	margin:5px;
 	padding:5px;
@@ -70,7 +70,7 @@
 }
 
 .footer{
-	width:100%;
+	width:99.5%;
 	height:200px;
 	background-color:#508EFF;
 	text-align:center;
